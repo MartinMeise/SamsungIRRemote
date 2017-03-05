@@ -8,7 +8,7 @@
  // You should now see an overlay display
  // Navigate with Arrows up and down on your TV remote to Options
  // Press the right arrow to select (use back or left arrow to go back)
- // Select Model and change it form UKU6000 to UKU6090
+ // Select SW Model and change it form UKU6000 to UKU6090
  // ---------------------------------------------------------------------
  
 #define LEDPIN 13
